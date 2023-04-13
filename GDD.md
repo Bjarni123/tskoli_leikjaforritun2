@@ -1,4 +1,7 @@
 # Punch-Out
+---
+
+## Útskýring
 
 Ég mun gera emulator um Punch-Out leikinn sem var gefinn út á Nintendo NES. Punch-Out er boxing leikur þar sem þú ert að spila einn character sem heitir Little Mac 
 í gegnum boxing ferilinn hans og þú munt fara í gegnum fullt af andstæðingum sumir góður, sumir slæmir. 
@@ -26,6 +29,26 @@ Andstæðingarnir koma í eftirfarandi röð:
     - Mike Tyson
 
 ![Allir andstæðingar](PO-allCharacters.webp)
+
+---
+
+## Controls
+
+| Takki | Hreyfing |
+| ----------- | ----------- |
+| Vinstri smellur | Vinstri líkams kýling |
+| Hægri smellur | Hægri líkams kýling |
+| W + vinstri smellur | Jab með vinstri hönd |
+| W + Hægri smellur | Jab með hægri hönd |
+| A | Dodge til vinstri |
+| D | Dodge til hægri |
+| S | Block |
+| S (x2) | Duck |
+| Space | Uppercut (Notar stjörnu) |
+
+---
+
+## 
 
 ---
 

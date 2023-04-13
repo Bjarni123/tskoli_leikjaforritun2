@@ -25,7 +25,7 @@ Andstæðingarnir koma í eftirfarandi röð:
  - THE CHAMPION: 
     - Mike Tyson
 
-![alt text](image.jpg)
+![Allir andstæðingar](PO-allCharacters.webp)
 
 ---
 

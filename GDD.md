@@ -69,6 +69,16 @@ Andstæðingarnir koma í eftirfarandi röð:
 
 ---
 
+#### Helstu hindranir (gisk)
+
+- Vita hvernær það er hitt eða maður er hittur og hvort maður er að blocka eða ekki
+- Hegðun Andstæðinga
+- Tímasetning fyrir stjörnur og counters og special moves
+
+---
+
+### Hjálpargögn
+
 [Opponent Behaviours](https://www.neoseeker.com/punch-out/faqs/2911548-mike-tysons-opponent.html)
 
 [Visualized behaviour](https://tomorrowcorporation.com/posts/retro-game-internals-punch-out-behavior-script)

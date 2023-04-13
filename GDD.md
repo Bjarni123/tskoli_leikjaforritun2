@@ -48,7 +48,24 @@ Andstæðingarnir koma í eftirfarandi röð:
 
 ---
 
-## 
+### Basic Reglur
+
+Einn slagur er gerður af 3 roundum og aðeins 2 leiðir til þess að vinna slaginn. Það er annaðhvort með KO(knockout) og andstæðingurinn stendur ekki upp eða TKO(Technical knockout) sem gerist ef sama manneskjan er KO'd 3 sinnum í sama roundi. Ef andstæðingurinn er KO'd fær hann 10 sek til þess að standa upp. Ef hann nær
+því ekki þá vinnur spilarinn. 
+
+### Spilarinn er með health bar, stamina og stjörnur. 
+- Health
+  - Health barinn er til þess að sjá hversu margar kýlingar í viðbót maður getur tekið áður en maður er KO'd og fer niður þegar maður verður kýldur eða blockar. 
+- Stamina
+  - Stamina barinn er til þess að sjá margar hreyfinar þú getur gert. Hann fer niður eftir hverja kýlingu, dodge og block. Hann minnkar sérstaklega mikið þegar maður missir kýlingu. 
+- Stjörnur
+  - Stjörnurnar fær maður í gegnum leikinn með því að kýla andstæðingin þegar hann á ekki von á því. Stjörnurnar lætur mann geta gert uppercut og ein stjarna hverfur þegar maður verður hittur eða blockar.
+
+Ef spilarinn verður KO'd þá verður hann að hægri og vinstri smella eins hratt og hann getur til þess að standa aftur upp og verður það erfiðara eftir hvert skipti sem hann verður KO'd.
+
+### Hvernig round myndi fara
+
+Spilarinn og andstæðingurinn byrjar á því að berjast og hægt er að blocka, dodgea eða countera kýlingar þangað til annaðhvort þeirra verður KO'd eða TKO'd. Andstæðingar eru tölvur sem stundum hafa ákveðið sem þau ætla að gera eins og t.d. að kýla eða uppercut. Sumir andstæðingar hafa Special Move og nota það á ákveðnum tíma leiksins. Það er hægt að countera öll special moves en oft er tímasetningin mjög erfið.
 
 ---
 

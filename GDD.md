@@ -25,6 +25,8 @@ Andstæðingarnir koma í eftirfarandi röð:
  - THE CHAMPION: 
     - Mike Tyson
 
+![alt text](image.jpg)
+
 ---
 
 [Opponent Behaviours](https://www.neoseeker.com/punch-out/faqs/2911548-mike-tysons-opponent.html)

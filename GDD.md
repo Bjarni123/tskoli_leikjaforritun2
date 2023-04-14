@@ -77,7 +77,7 @@ Andstæðingarnir koma í eftirfarandi röð:
 
 ---
 
-### Hjálpargögn
+### Hjálpargögn um hvernig leikurinn virkar
 
 [Opponent Behaviours](https://www.neoseeker.com/punch-out/faqs/2911548-mike-tysons-opponent.html)
 

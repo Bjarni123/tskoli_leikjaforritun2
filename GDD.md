@@ -84,3 +84,6 @@ Andstæðingarnir koma í eftirfarandi röð:
 [Visualized behaviour](https://tomorrowcorporation.com/posts/retro-game-internals-punch-out-behavior-script)
 
 [Video Útskýring](https://www.youtube.com/watch?v=tlKW723EOMA)
+
+[Hvar er að finna behaviour Scripts Held ég](https://github.com/nmikstas/mike-tysons-punch-out-disassembly)
+

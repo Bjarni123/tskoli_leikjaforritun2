@@ -91,3 +91,5 @@ Andstæðingarnir koma í eftirfarandi röð:
 
 [Hvar er að finna behaviour Scripts Held ég](https://github.com/nmikstas/mike-tysons-punch-out-disassembly)
 
+[Usefull Images](https://nesmaps.com/maps/MikeTysonsPunchOut/MikeTysonsPunchOutBG.html)
+

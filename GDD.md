@@ -1,6 +1,10 @@
 # Punch-Out
 ---
 
+[Clockify](https://app.clockify.me/shared/643e9b66620628718f063080)
+
+---
+
 ## Útskýring
 
 Ég mun gera emulator um Punch-Out leikinn sem var gefinn út á Nintendo NES. Punch-Out er boxing leikur þar sem þú ert að spila einn character sem heitir Little Mac 

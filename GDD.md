@@ -93,3 +93,5 @@ Andstæðingarnir koma í eftirfarandi röð:
 
 [Usefull Images](https://nesmaps.com/maps/MikeTysonsPunchOut/MikeTysonsPunchOutBG.html)
 
+[Usefull Images 2](https://www.mariouniverse.com/sprites-nes-mtp/)
+

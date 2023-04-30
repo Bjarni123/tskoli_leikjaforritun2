@@ -3,6 +3,8 @@
 
 [Clockify](https://app.clockify.me/shared/643e9b66620628718f063080)
 
+[Verkefni 4 Prototype](https://youtu.be/lROrN00XYZ8)
+
 ---
 
 ## Útskýring

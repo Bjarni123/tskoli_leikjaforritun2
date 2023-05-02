@@ -10,7 +10,7 @@
 ## Útskýring
 
 Ég mun gera emulator um Punch-Out leikinn sem var gefinn út á Nintendo NES. Punch-Out er boxing leikur þar sem þú ert að spila einn character sem heitir Little Mac 
-í gegnum boxing ferilinn hans og þú munt fara í gegnum fullt af andstæðingum sumir góður, sumir slæmir. 
+í gegnum boxing ferilinn hans og þú munt fara í gegnum fullt af andstæðingum sumir góðir, sumir slæmir. 
 
 ---
 
@@ -35,7 +35,7 @@ Spilarinn og andstæðingurinn byrjar á því að berjast og hægt er að block
 
 ---
 
-Andstæðingarnir koma í eftirfarandi röð:
+Andstæðingarnir koma í eftirfarandi röð í Punch-out:
  - Minor Circuit: 
     - Glass Joe
     - Von Káiser
@@ -54,6 +54,8 @@ Andstæðingarnir koma í eftirfarandi röð:
     - Super Macho Man. 
  - THE CHAMPION: 
     - Mike Tyson
+
+Þessi Emulator mun hinsvegar aðeins hafa Von Kaiser og mögulega Great Tiger.
 
 ![Allir andstæðingar](PO-allCharacters.webp)
 
@@ -81,7 +83,7 @@ Andstæðingurinn er með fullt af mismunandi kýlingum sem hann getur gert. All
 - 0 Þýðir að ef þú kýlir hann þarna muntu fá stjörnu. 
 - 1 þýðir að hann er ekki að vernda það svæði og þú munt hitta ef þú kýlir hann þarna. 
 - 2 þýðir að hann er blocka þarna.
--  3 þýðir að hann er búinn að dodgea
+- 3 þýðir að hann er búinn að dodgea
 
 Hegðun anstæðingsins fer eftir tímasetningu og hvað spilarinn gerir. Frá því sem ég er búinn að finna so far er Von Kaiser með mjög einfalda skriptu en aðrir andstæðingar hafa flóknari
 skriptur og t.d. response við hvað playerinn gerir. Von Kaiser virkar eftirfarandi 
